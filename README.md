@@ -1,4 +1,4 @@
-# FrFTScilab
+# Fractional Fourier Transform (FrFT)
 
 Fourier optics is a branch of the physics based specifically in the Fourier Transform, it is of important applicability in signal processing of periodic phenomena in optics, However, it fails to find a value of the frequency for a function f(x) in a time estimated.
 
